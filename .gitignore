@@ -1,0 +1,9 @@
+
+.metadata/
+*.class
+*.jar
+.settings/
+.mymetadata
+target/
+.project
+.classpath
